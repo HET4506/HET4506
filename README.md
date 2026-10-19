@@ -29,6 +29,13 @@ I am an engineering student and digital hardware designer specializing in **RTL 
 
 ---
 
+### 🏆 Honors & Certifications
+
+- 🥈 **2nd Place Winner — TCS Tech Day / VLSI Challenge**: Awarded for designing, simulating, and validating the **Dynamic Flow Arbitration Network (DFAN)** synthesizable hardware scheduler in Verilog HDL.
+- 🎓 **Computer Architecture Specialization**: Advanced processor architecture and microarchitecture certification from **Indian Institute of Technology Guwahati (IIT Guwahati)**.
+
+---
+
 ### 🛠️ Hardware & Engineering Toolkit
 
 <div align="left">
@@ -63,7 +70,7 @@ I am an engineering student and digital hardware designer specializing in **RTL 
   <tr>
     <td width="50%">
       <h3 align="center">Dynamic Arbitration Flow Network (DFAN)</h3>
-      <p align="center"><b>Synthesizable Verilog HDL • Hardware Scheduler</b></p>
+      <p align="center"><b>Synthesizable Verilog HDL • Hardware Scheduler</b><br/>🥈 <i>2nd Place Winner @ TCS</i></p>
       <ul>
         <li>Synthesizable hardware scheduler coordinating 4 flow domains under dynamic demand loads (0–15).</li>
         <li>Features dynamic priority overrides, global pause interlocks, starvation-free arbitration, and multi-state FSM.</li>
