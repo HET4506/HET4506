@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,50&height=200&section=header&text=HET%20SACHANI&fontSize=42&fontAlignY=36&desc=Digital%20VLSI%20%7C%20RTL%20Design%20%7C%20Computer%20Architecture%20%7C%20FPGA&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- SOCIAL & CONTACT PILLS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-sachani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HET4506)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetsachani@example.com)
 
